@@ -1,4 +1,4 @@
-# Market Management — Back-end
+Mini Market API - Лабораторная работа Docker
 
 API REST para gerenciamento de mini mercados desenvolvida em Python com Flask. Permite que cada mercado gerencie seu catálogo de produtos, registre vendas com múltiplos itens, acompanhe indicadores no dashboard e receba código de ativação via WhatsApp. Conta com painel administrativo para gerenciar todos os mercados cadastrados.
 
